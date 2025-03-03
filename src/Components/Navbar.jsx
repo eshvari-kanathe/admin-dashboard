@@ -7,7 +7,6 @@ const Navbar = () => {
     return <div className="g-sidenav-show  bg-gray-100">
         <div className="main-content position-relative  border-radius-lg ">
 
-
             <nav
                 className="navbar navbar-main navbar-expand-lg px-0 mx-4 shadow-none border-radius-xl"
                 id="navbarBlur"

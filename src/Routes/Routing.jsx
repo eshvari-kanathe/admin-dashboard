@@ -14,7 +14,7 @@ import Virtualreality from "../Pages/Virtualreality"
 const Routing = () => {
   return<>
     <Routes>
-        <Route path="/dashboard" element={<Dashboard/>}/>
+        <Route path="/" element={<Dashboard/>}/>
         <Route path="/tables" element={ <Tables/> }/>
         <Route path="/billing" element={<Billing/>}/>
         <Route path="/profile" element={<Profile/>}/>

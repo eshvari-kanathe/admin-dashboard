@@ -5,7 +5,7 @@ const Virtualreality = () => {
   return <div>
     <>
       <Sidebar />
-      <div>
+      {/* <div/> */}
         {/* Navbar */}
         {/* <nav
           className="navbar navbar-main navbar-expand-lg px-0 mx-4 shadow-none border-radius-xl"
@@ -208,7 +208,7 @@ const Virtualreality = () => {
         </nav> */}
 
         {/* End Navbar */}
-      </div>
+      {/* </div> */}
       <div
         className="border-radius-xl mt-3 mx-3 position-relative"
         style={{
