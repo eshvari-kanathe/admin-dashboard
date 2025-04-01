@@ -15,7 +15,6 @@ const App = () => {
     <button onClick={() => navigate("/dashboard")} style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>Go to dashboard</button>
     <Routing />
   </>
-
-};
+}
 
 export default App;
